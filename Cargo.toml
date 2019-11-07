@@ -1,7 +1,7 @@
 [package]
 name = "usb-hal"
 description = "USB framework for microcontrollers in Rust"
-version = "0.0.0-zero.0"
+version = "0.0.0-zero.1"
 edition = "2018"
 readme = "README.md"
 keywords = ["no-std", "embedded", "usb", "usb-hal"]
