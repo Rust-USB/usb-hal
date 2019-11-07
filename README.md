@@ -1,2 +1,2 @@
 # usb-hal
-USB framework for microcontrollers in Rust (Under developing)
+USB framework for microcontrollers in Rust (Under development)
