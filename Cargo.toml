@@ -1,0 +1,15 @@
+[package]
+name = "usb-hal"
+description = "USB framework for microcontrollers in Rust"
+version = "0.0.0-zero.0"
+edition = "2018"
+readme = "README.md"
+keywords = ["no-std", "embedded", "usb", "usb-hal"]
+license = "Apache-2.0"
+authors = ["Boris Vinogradov <no111u3@gmail.com>"]
+repository = "https://github.com/Rust-USB/usb-hal"
+
+[dependencies]
+
+[dev-dependencies]
+libusb = "0.3"
