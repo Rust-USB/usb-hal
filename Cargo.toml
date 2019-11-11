@@ -12,4 +12,4 @@ repository = "https://github.com/Rust-USB/usb-hal"
 [dependencies]
 
 [dev-dependencies]
-libusb = "0.3"
+rusb = "0.4"
